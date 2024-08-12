@@ -21,7 +21,7 @@
 1.  **Clone the Repository:**
     
     ```bash
-    git clone git@github.com:venus-j/Bots.git
+    git clone git@github.com:venus-j/BotBattlr.git
     ```
     
 2.  **Install Dependencies:**
